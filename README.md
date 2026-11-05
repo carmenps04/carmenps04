@@ -4,9 +4,7 @@ Graduada en Marketing e Investigación de Mercados (UGR) y estudiante del Máste
 
 Busco prácticas en análisis de datos a partir de junio de 2027, en Granada o en remoto.
 
-**CV web:** [carmenps04.github.io](https://carmenps04.github.io/) 
-**LinkedIn:** [carmen-perez-sanchez0408](https://www.linkedin.com/in/carmen-perez-sanchez0408) 
-**Correo:** carmenperezcr4@gmail.com
+**CV web:** [carmenps04.github.io](https://carmenps04.github.io/)  ·  **LinkedIn:** [carmen-perez-sanchez0408](https://www.linkedin.com/in/carmen-perez-sanchez0408)  ·  **Correo:** carmenperezcr4@gmail.com
 
 ### Proyectos
 
