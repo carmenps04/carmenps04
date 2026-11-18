@@ -10,6 +10,7 @@ Busco prácticas en análisis de datos a partir de junio de 2027, en Granada o e
 
 | Proyecto | Qué es | Enlace |
 |---|---|---|
+| [escaner-nutricion-](https://github.com/carmenps04/escaner-nutricion-) | Escáner de productos del supermercado que los valora según un plan de calorías y macros | [Abrir](https://carmenps04.github.io/escaner-nutricion-/) |
 | [simulador_mercados](https://github.com/carmenps04/simulador_mercados) | Simulador de empresa de telefonía móvil para alumnado de 4.º de ESO | [Abrir](https://carmenps04.github.io/simulador_mercados/) |
 | [mi-primera-app](https://github.com/carmenps04/mi-primera-app) | App de finanzas personales: ingresos, gastos, categorías y resúmenes | [Abrir](https://carmenps04.github.io/mi-primera-app/) |
 
